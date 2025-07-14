@@ -1,0 +1,11 @@
+sample_id,age_group,sex,mycn_status,high_risk,inss_stage,os_years
+SEQC_NB435,< 18 months,F,Normal,N,4,4.6680355920602326
+SEQC_NB180,> 18 months,F,Normal,N,2,5.727583846680356
+SEQC_NB386,> 18 months,F,Normal,Y,4,5.83709787816564
+SEQC_NB299,< 18 months,M,Normal,N,4S,5.7850787132101305
+SEQC_NB060,< 18 months,M,Normal,N,1,11.118412046543463
+SEQC_NB488,< 18 months,F,Normal,N,4,2.724161533196441
+SEQC_NB356,> 18 months,M,Normal,N,2,12.59958932238193
+SEQC_NB497,< 18 months,F,Normal,N,1,13.36892539356605
+SEQC_NB316,< 18 months,M,Amplified,Y,4S,0.5722108145106092
+SEQC_NB398,< 18 months,M,Normal,N,4S,7.685147159479809
